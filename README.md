@@ -1,1 +1,3 @@
-# note_mongodb
+记账本
+
+实现记账本的增删改查功能，数据库用的mongodb
